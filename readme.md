@@ -67,5 +67,9 @@ Hint: A segment can have dependencies. For example: A segment routinely receives
  - Basic knowledge of C ++ / Reverse engineering.
 
 ####
+##### Projects that use this loader:
+ - [Legacy OneTap v2](https://github.com/cpu-id/otv2-pl)
+
+####
 ##### TO-DO:
  - [ ] Debug-GUI.
